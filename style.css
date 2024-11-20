@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    }   
+
+div{
+    width: 50%;
+    position: relative;
+    left: 25%;
+    color: white;
+    text-align: center;
+    top: 50px;
+    }
+
+.gambar-fakyu{
+    height: 50%;
+    width: 50%;
+    border: 5px solid whitesmoke;
+    }
+
+    h1{
+        text-transform: uppercase;
+    }
